@@ -1,0 +1,476 @@
+var zhankuKML = `<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style id="118799729">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="158626230">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="339080142">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="1073952354">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="1203164841">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="1424357921">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2091982317">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2156684892">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2353656416">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2386833851">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2736931483">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2739646303">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2783613873">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="2809331201">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3055025843">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3066129447">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3093728252">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3219586908">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3250134151">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3301045607">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3367519139">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3659929753">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3719183897">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="3854920247">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="4262187911">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Style id="4283488794">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+<Folder>
+<name>石开站库</name>
+<Placemark>
+  <name>渤3站</name>
+  <description/>
+  <styleUrl>#1073952354</styleUrl>
+  <Point>
+    <coordinates>
+      118.848926775277,37.9175414597395,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>草128站</name>
+  <description/>
+  <styleUrl>#4262187911</styleUrl>
+  <Point>
+    <coordinates>
+      118.35974,37.15798,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>草4-1站</name>
+  <description/>
+  <styleUrl>#3367519139</styleUrl>
+  <Point>
+    <coordinates>
+      118.40933437127,37.1505955501427,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>草南联</name>
+  <description/>
+  <styleUrl>#2739646303</styleUrl>
+  <Point>
+    <coordinates>
+      118.42535097153,37.1090119767721,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>稠油站</name>
+  <description/>
+  <styleUrl>#2091982317</styleUrl>
+  <Point>
+    <coordinates>
+      118.539045643769,37.6404665895032,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>富112站</name>
+  <description/>
+  <styleUrl>#3659929753</styleUrl>
+  <Point>
+    <coordinates>
+      118.865243848831,37.7435280751257,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>富11站</name>
+  <description/>
+  <styleUrl>#1424357921</styleUrl>
+  <Point>
+    <coordinates>
+      118.856932944775,37.7273755092621,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>富14站</name>
+  <description/>
+  <styleUrl>#3301045607</styleUrl>
+  <Point>
+    <coordinates>
+      118.854172284891,37.7211131253082,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>孤北21站</name>
+  <description/>
+  <styleUrl>#2353656416</styleUrl>
+  <Point>
+    <coordinates>
+      118.735177821216,37.9130656309871,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>孤南12站</name>
+  <description/>
+  <styleUrl>#2156684892</styleUrl>
+  <Point>
+    <coordinates>
+      118.905790108515,37.8677228875905,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>孤南131站</name>
+  <description/>
+  <styleUrl>#3093728252</styleUrl>
+  <Point>
+    <coordinates>
+      118.965801883389,37.878253240183,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>垦20站</name>
+  <description/>
+  <styleUrl>#4283488794</styleUrl>
+  <Point>
+    <coordinates>
+      118.954333005341,37.7682498979446,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>垦90站</name>
+  <description/>
+  <styleUrl>#2386833851</styleUrl>
+  <Point>
+    <coordinates>
+      118.951849332333,37.7729490380287,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>垦95站</name>
+  <description/>
+  <styleUrl>#2783613873</styleUrl>
+  <Point>
+    <coordinates>
+      118.908773747244,37.7629678134918,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>垦东32站</name>
+  <description/>
+  <styleUrl>#3719183897</styleUrl>
+  <Point>
+    <coordinates>
+      119.173231311152,37.7318023805304,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>垦利联</name>
+  <description/>
+  <styleUrl>#158626230</styleUrl>
+  <Point>
+    <coordinates>
+      118.861917352903,37.7542409912591,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>史109站</name>
+  <description/>
+  <styleUrl>#3854920247</styleUrl>
+  <Point>
+    <coordinates>
+      118.30217466012,37.4228459863422,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>新滩联</name>
+  <description/>
+  <styleUrl>#3250134151</styleUrl>
+  <Point>
+    <coordinates>
+      119.176535558011,37.7470638389587,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义284</name>
+  <description/>
+  <styleUrl>#3219586908</styleUrl>
+  <Point>
+    <coordinates>
+      118.589683499336,37.9556754527091,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义320站</name>
+  <description/>
+  <styleUrl>#3055025843</styleUrl>
+  <Point>
+    <coordinates>
+      118.482202229641,37.9666882859039,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义327站</name>
+  <description/>
+  <styleUrl>#118799729</styleUrl>
+  <Point>
+    <coordinates>
+      118.471690652512,37.9585155950356,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义34接转站</name>
+  <description/>
+  <styleUrl>#2809331201</styleUrl>
+  <Point>
+    <coordinates>
+      118.637836324019,37.9380959787066,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义3站</name>
+  <description/>
+  <styleUrl>#3066129447</styleUrl>
+  <Point>
+    <coordinates>
+      118.440446370708,37.9414180996678,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>义4站</name>
+  <description/>
+  <styleUrl>#2736931483</styleUrl>
+  <Point>
+    <coordinates>
+      118.382568815539,37.9593350507911,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>郑411平2站</name>
+  <description/>
+  <styleUrl>#339080142</styleUrl>
+  <Point>
+    <coordinates>
+      118.2325288725,37.6027991725321,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>坨82站</name>
+  <description/>
+  <styleUrl>#1203164841</styleUrl>
+  <Point>
+    <coordinates>
+      118.360600641412,37.5812179026712,0
+    </coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>`;
