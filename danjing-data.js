@@ -1,5 +1,5 @@
-// VERSION:20260505
-var danjingVersion = '20260505';
+// VERSION:20260506
+var danjingVersion = '20260506';
 const wellList = [
     {'n': '草335', 'x': 4115411.89, 'y': 20634944.63},
     {'n': '王955-斜5', 'x': 4116837.82, 'y': 20635529.17},
